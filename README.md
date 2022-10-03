@@ -23,9 +23,9 @@
 <br/>
 
 ## 📌 CS 개념
-- [일급 객체](#)
-- [서버와 클라이언트](#)
-- [API](#)
+- [일급 객체](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
+- [서버와 클라이언트](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%84%9C%EB%B2%84%EC%99%80%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8.md)
+- [API](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/API.md)
 
 ## 📌 자료구조
 
