@@ -28,7 +28,7 @@
 - [API](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/API.md)
 - [절차 지향 프로그래밍, 객체지향 프로그래밍, 함수형 프로그래밍](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2C%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2C%20%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [쿠키, 세션](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98.md)
-- SOP, CORS
+- [SOP, CORS](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/SOP%2C%20CORS.md)
 - 인터프리트, 컴파일
 
 ## 📌 자료구조
