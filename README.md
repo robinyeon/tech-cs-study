@@ -30,6 +30,10 @@
 - [쿠키, 세션](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98.md)
 - [SOP, CORS](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/SOP%2C%20CORS.md)
 - [인터프리트, 컴파일](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%8A%B8%2C%20%EC%BB%B4%ED%8C%8C%EC%9D%BC.md)
+- [인증과 인가](#)
+- [Web Server, WAS](#)
+- [로컬스토리지, 세션스토리지](#)
+- [DBMS 테이블, key](#)
 
 ## 📌 자료구조
 
