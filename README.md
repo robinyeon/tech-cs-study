@@ -22,7 +22,7 @@
 <br/>
 
 ## 📌 자료구조
-- [Stack, Queue](#)
+- [Stack, Queue](https://github.com/robinyeon/tech-cs-study/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Stack%20Queue.md)
 <br/>
 
 ## 📌 알고리즘
