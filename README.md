@@ -31,7 +31,8 @@
 
 ## 📌 네트워크
 - [OSI 네트워크 모델](#)
-- [Web Server, WAS](#)
+- [Web Server, WAS](https://github.com/robinyeon/tech-cs-study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/Web%20Server%2C%20WAS.md)
+
 <br/>
 
 ## 📌 데이터 베이스
@@ -59,6 +60,9 @@
 - [일급 객체](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
 - [인터프리트, 컴파일](https://github.com/robinyeon/tech-interview/blob/main/CS%20%EA%B0%9C%EB%85%90/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%8A%B8%2C%20%EC%BB%B4%ED%8C%8C%EC%9D%BC.md)
 
+<br/>
+
+## 📌 etc
 
 
 
