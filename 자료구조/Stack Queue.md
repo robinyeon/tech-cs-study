@@ -4,7 +4,7 @@
 
 # 연다은봄
 
-### 핵심 함수
+## 핵심 함수
 \- 삽입(Push): 데이터를 삽입한다.       
 \- 삭제(Pop): 데이터를 삭제한다.       
 
@@ -17,6 +17,8 @@
 
 ## Queue
 ![](https://user-images.githubusercontent.com/85475577/201534845-886c10c6-a63f-4c7e-a466-ba0f0d8e8091.png)      
+
+### 핵심 개념
 \- 대기 줄에 비유: 먼저 온 사람이 먼저 들어간다.          
 \- 선입선출(First-In-First-Out)         
 
