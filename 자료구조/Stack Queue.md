@@ -4,18 +4,19 @@
 
 # 연다은봄
 
-## Stack
-![](https://user-images.githubusercontent.com/85475577/201534276-2e775d5f-8d22-489d-a193-28792e877e99.png)
-
 ### 핵심 함수
 \- 삽입(Push): 데이터를 삽입한다.       
-\- 삭제(Pop): 데이터를 삭제한다.        
+\- 삭제(Pop): 데이터를 삭제한다.       
+
+## Stack
+![](https://user-images.githubusercontent.com/85475577/201534276-2e775d5f-8d22-489d-a193-28792e877e99.png) 
 
 ### 핵심 개념
 \- 박스 쌓기에 비유: 아래에서부터 위로 차곡차곡 쌓는다.        
 \- 선입후출(First-In-Last-Out), 후입선출(Last-In-First-Out)         
 
 ## Queue
+![](https://user-images.githubusercontent.com/85475577/201534845-886c10c6-a63f-4c7e-a466-ba0f0d8e8091.png)      
 \- 대기 줄에 비유: 먼저 온 사람이 먼저 들어간다.          
 \- 선입선출(First-In-First-Out)         
 
